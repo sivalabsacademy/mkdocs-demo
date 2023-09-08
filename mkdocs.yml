@@ -8,7 +8,7 @@ repo_name: "sivalabsacademy/mkdocs-demo"
 repo_url: "https://github.com/sivalabsacademy/mkdocs-demo"
 
 # Copyright
-copyright: "Copyright &copy; 2023 K Siva Prasad Reddy"
+copyright: "Copyright 2023 K Siva Prasad Reddy"
 
 theme:
   name: material
