@@ -1,11 +1,11 @@
 site_name: "MKDocs Demo Site"
 site_description: "MKDocs Demo Site"
 site_author: "K Siva Prasad Reddy"
-site_url: "https://sivaprasadreddy.github.io/mkdocs-demo"
+site_url: "https://sivalabsacademy.github.io/mkdocs-demo"
 
 # Repository
-repo_name: "sivaprasadreddy/mkdocs-demo"
-repo_url: "https://github.com/sivaprasadreddy/mkdocs-demo"
+repo_name: "sivalabsacademy/mkdocs-demo"
+repo_url: "https://github.com/sivalabsacademy/mkdocs-demo"
 
 # Copyright
 copyright: "Copyright &copy; 2023 K Siva Prasad Reddy"
