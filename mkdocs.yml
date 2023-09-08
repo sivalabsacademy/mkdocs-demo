@@ -1,0 +1,32 @@
+site_name: "MKDocs Demo Site"
+site_description: "MKDocs Demo Site"
+site_author: "K Siva Prasad Reddy"
+site_url: "https://sivaprasadreddy.github.io/mkdocs-demo"
+
+# Repository
+repo_name: "sivaprasadreddy/mkdocs-demo"
+repo_url: "https://github.com/sivaprasadreddy/mkdocs-demo"
+
+# Copyright
+copyright: "Copyright &copy; 2023 K Siva Prasad Reddy"
+
+theme:
+  name: material
+nav:
+  - Home: index.md
+
+# Customization
+extra:
+  manifest: "manifest.webmanifest"
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: "https://github.com/sivaprasadreddy"
+    - icon: fontawesome/brands/twitter
+      link: "https://twitter.com/sivalabs"
+    - icon: fontawesome/brands/linkedin
+      link: "https://www.linkedin.com/in/siva-prasad-reddy-katamreddy/"
+
+# Extensions
+markdown_extensions:
+  - codehilite
+  - tables
