@@ -1,1 +1,1 @@
-# mkdocs-demo
+# Mkdocs demo site
